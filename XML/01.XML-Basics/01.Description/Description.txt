@@ -1,0 +1,14 @@
+﻿Q:What does the XML language represents? What does it used for? 
+
+A:XML is a markup language for documents containing structured information.
+
+Structured information contains both content (words, pictures, etc.) 
+and some indication of what role that content plays (for example, 
+content in a section heading has a different meaning from content in 
+a footnote, which means something different than content in a figure 
+caption or content in a database table, etc.). Almost all documents 
+have some structure.
+
+A markup language is a mechanism to identify structures in a 
+document. The XML specification defines a standard way to add 
+markup to documents.

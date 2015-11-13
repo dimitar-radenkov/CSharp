@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_01.RetrieveNumberOfCategariesNorthwind" GeneratedClassName="SQLSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=.\SQLEXPRESS; Database=northwind; Integrated Security=true</Value>
+    </Setting>
+    <Setting Name="sqlGetCategoriesCount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT COUNT(*) FROM [northwind].[dbo].[Categories]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

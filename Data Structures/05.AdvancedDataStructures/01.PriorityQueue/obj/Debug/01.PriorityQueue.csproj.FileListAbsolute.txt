@@ -1,0 +1,6 @@
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\01.PriorityQueue\bin\Debug\01.PriorityQueue.exe.config
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\01.PriorityQueue\obj\Debug\01.PriorityQueue.csprojResolveAssemblyReference.cache
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\01.PriorityQueue\bin\Debug\01.PriorityQueue.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\01.PriorityQueue\bin\Debug\01.PriorityQueue.pdb
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\01.PriorityQueue\obj\Debug\01.PriorityQueue.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\01.PriorityQueue\obj\Debug\01.PriorityQueue.pdb

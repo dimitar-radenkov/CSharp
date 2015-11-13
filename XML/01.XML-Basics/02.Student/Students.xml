@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Students>
+  <Student>
+    <Name>Dimitar Radenkov</Name>
+    <Sex>Male</Sex>
+    <Birthdate>21.03.1986</Birthdate>
+    <Email>dimitar.radenkov1@gmail.com</Email>
+    <Course>database</Course>
+    <Specialty>developer</Specialty>
+    <FacultyNumber>112233</FacultyNumber>
+  </Student>
+
+  <Student>
+    <Name>Ralica Radenkova</Name>
+    <Sex>Female</Sex>
+    <Birthdate>15.16.1982</Birthdate>
+    <Email>ralica.vaskova@gmail.com</Email>
+    <Course>dental care</Course>
+    <Specialty>dentist</Specialty>
+    <FacultyNumber>445566</FacultyNumber>
+  </Student>
+</Students>

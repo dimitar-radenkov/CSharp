@@ -1,0 +1,1 @@
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\CombatCountdown.csproj;neutral

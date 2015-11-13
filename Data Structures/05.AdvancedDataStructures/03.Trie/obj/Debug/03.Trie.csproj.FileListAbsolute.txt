@@ -1,0 +1,7 @@
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.exe.config
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.pdb
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.pdb
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\03.Trie\bin\Debug\PowerCollections.dll
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\03.Trie\bin\Debug\PowerCollections.xml

@@ -1,0 +1,48 @@
+﻿<Page
+    x:Class="_02.TextColor.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_02.TextColor"
+    xmlns:converters="using:_02.TextColor.Converter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <converters:ItemToStringConverter x:Key="ItemConverter" />
+    </Page.Resources>
+    
+    <StackPanel>      
+        <TextBox Margin="5"
+                 Name="textInput"
+                 Text="Enter text here"></TextBox>
+        
+        <StackPanel Margin="5">
+            <TextBlock FontSize="16">Foreground</TextBlock>
+            <ComboBox Name="comboForegroundColor">
+                <ComboBoxItem>Red</ComboBoxItem>
+                <ComboBoxItem>Blue</ComboBoxItem>
+                <ComboBoxItem>Green</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Margin="5">
+            <TextBlock FontSize="16">Background</TextBlock>
+            <ComboBox Name="comboBackgroundColor">
+                <ComboBoxItem>Red</ComboBoxItem>
+                <ComboBoxItem>Blue</ComboBoxItem>
+                <ComboBoxItem>Green</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Background="{Binding ElementName=comboBackgroundColor, Path=SelectedValue, Converter={StaticResource ItemConverter}}">
+            <TextBlock FontSize="30"
+                       VerticalAlignment="Top"
+                       HorizontalAlignment="Center"
+                       Text="{Binding ElementName=textInput, Path=Text}"
+                       Foreground="{Binding ElementName=comboForegroundColor, Path=SelectedValue, Converter={StaticResource ItemConverter}}">           
+            </TextBlock>
+        </StackPanel>
+    </StackPanel>
+</Page>

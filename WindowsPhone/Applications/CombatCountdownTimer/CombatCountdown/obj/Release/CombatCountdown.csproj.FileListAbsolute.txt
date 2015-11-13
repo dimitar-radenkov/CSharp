@@ -1,0 +1,37 @@
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\App.xbf
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\ConfigPage.xbf
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\MainPage.xbf
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\resources.pri
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\AppxManifest.xml
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\CombatCountdown.build.appxrecipe
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\App.g.i.cs
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\App.g.cs
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\ConfigPage.g.i.cs
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\ConfigPage.g.cs
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\MainPage.g.i.cs
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\MainPage.g.cs
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\XamlTypeInfo.g.cs
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\App.xaml
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\ConfigPage.xaml
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\MainPage.xaml
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\App.xbf
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\ConfigPage.xbf
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\MainPage.xbf
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\XamlSaveStateFile.xml
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\priconfig.xml
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\priconfig.xml.intermediate
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\layout.resfiles
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\layout.resfiles.intermediate
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\resources.resfiles
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\resources.resfiles.intermediate
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\pri.resfiles
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\pri.resfiles.intermediate
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\qualifiers.txt
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\qualifiers.txt.intermediate
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\ProjectArchitectures.txt
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\Combat Round Timer.xr.xml
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\Combat Round Timer.exe
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\bin\Release\Combat Round Timer.pdb
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\Combat Round Timer.exe
+C:\Users\dimit\Desktop\GIT\CSharp\WindowsPhone\Applications\CombatCountdownTimer\CombatCountdown\obj\Release\Combat Round Timer.pdb

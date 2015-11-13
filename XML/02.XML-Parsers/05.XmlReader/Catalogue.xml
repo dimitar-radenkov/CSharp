@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<catalogue>
+  <album>
+    <name>The best of</name>
+    <artist>Gloriq Estefan</artist>
+    <year>1999</year>
+    <producer>SONY</producer>
+    <price>200</price>
+    <songs>
+      <song>
+        <title>song1</title>
+        <duration>3:25</duration>
+      </song>
+      <song>
+        <title>song2</title>
+        <duration>4:25</duration>
+      </song>
+      <song>
+        <title>song3</title>
+        <duration>5:25</duration>
+      </song>
+      <song>
+        <title>song4</title>
+        <duration>4:00</duration>
+      </song>
+    </songs>
+  </album>
+
+  <album>
+    <name>I Need a hero</name>
+    <artist>Gloriq Estefan</artist>
+    <year>2004</year>
+    <producer>SONY</producer>
+    <price>20</price>
+    <songs>
+      <song>
+        <title>song1</title>
+        <duration>3:25</duration>
+      </song>
+      <song>
+        <title>song2</title>
+        <duration>4:25</duration>
+      </song>
+      <song>
+        <title>song3</title>
+        <duration>5:25</duration>
+      </song>
+      <song>
+        <title>song4</title>
+        <duration>4:00</duration>
+      </song>
+    </songs>
+  </album>
+  
+  <album>
+    <name>Hello Africa</name>
+    <artist>Black Dreams</artist>
+    <year>2010</year>
+    <producer>BMK</producer>
+    <price>10</price>
+    <songs>
+      <song>
+        <title>peach</title>
+        <duration>3:25</duration>
+      </song>
+      <song>
+        <title>who i am</title>
+        <duration>4:25</duration>
+      </song>
+      <song>
+        <title>where i am</title>
+        <duration>5:25</duration>
+      </song>
+      <song>
+        <title>afro</title>
+        <duration>4:00</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

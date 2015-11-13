@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="_03.ComboBox.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_03.ComboBox"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <ComboBox SelectedIndex="0"
+                      Padding="5" Width="250">
+                <TextBlock>Item One</TextBlock>
+                <Image Source="Images/fast-car.jpg"
+                       Width="50"></Image>
+                <Ellipse Width="50" Height="25" 
+                         Stroke="#FF080808"
+                         Fill="Red"></Ellipse>
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</Page>

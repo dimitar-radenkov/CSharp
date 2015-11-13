@@ -1,0 +1,6 @@
+C:\Users\Radenkov\documents\visual studio 2013\Projects\AdoNet\03.RetrieveProductCategoriesAndNames\bin\Debug\03.RetrieveProductCategoriesAndNames.exe.config
+C:\Users\Radenkov\documents\visual studio 2013\Projects\AdoNet\03.RetrieveProductCategoriesAndNames\bin\Debug\03.RetrieveProductCategoriesAndNames.exe
+C:\Users\Radenkov\documents\visual studio 2013\Projects\AdoNet\03.RetrieveProductCategoriesAndNames\bin\Debug\03.RetrieveProductCategoriesAndNames.pdb
+C:\Users\Radenkov\documents\visual studio 2013\Projects\AdoNet\03.RetrieveProductCategoriesAndNames\obj\Debug\03.RetrieveProductCategoriesAndNames.csprojResolveAssemblyReference.cache
+C:\Users\Radenkov\documents\visual studio 2013\Projects\AdoNet\03.RetrieveProductCategoriesAndNames\obj\Debug\03.RetrieveProductCategoriesAndNames.exe
+C:\Users\Radenkov\documents\visual studio 2013\Projects\AdoNet\03.RetrieveProductCategoriesAndNames\obj\Debug\03.RetrieveProductCategoriesAndNames.pdb

@@ -1,0 +1,2 @@
+﻿Find("Mimi")
+Find("Mimi", "Plovdiv")

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Students xmlns="urn:students">
+  
+  <Student>
+    <Name>Dimitar Radenkov</Name>
+    <Sex>Male</Sex>
+    <Birthdate>21.03.1986</Birthdate>
+    <Email>dimitar.radenkov1@gmail.com</Email>
+    <Course>database</Course>
+    <Specialty>developer</Specialty>
+    <FacultyNumber>112233</FacultyNumber>
+    <Exam>
+      <Date>2015-01-01</Date>
+      <Score>100</Score>
+    </Exam>
+    <TeacherEndorsement>true</TeacherEndorsement> 
+  </Student>
+
+  <Student>
+    <Name>Ralica Radenkova</Name>
+    <Sex>Female</Sex>
+    <Birthdate>15.16.1982</Birthdate>
+    <Email>ralica.vaskova@gmail.com</Email>
+    <Course>dental care</Course>
+    <Specialty>dentist</Specialty>
+    <FacultyNumber>445566</FacultyNumber>
+    <Exam>
+      <Date>2015-01-01</Date>
+      <Score>100</Score>
+    </Exam>
+    <TeacherEndorsement>true</TeacherEndorsement>
+  </Student>
+
+</Students>

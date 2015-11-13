@@ -1,0 +1,14 @@
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\SimpleChat.Models.dll.config
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\SimpleChat.Models.dll
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\SimpleChat.Models.pdb
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\EntityFramework.dll
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\EntityFramework.xml
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\obj\Debug\SimpleChat.Models.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\obj\Debug\SimpleChat.Models.dll
+c:\users\dimit\documents\visual studio 2015\Projects\SimpleChat\SimpleChat.Models\obj\Debug\SimpleChat.Models.pdb

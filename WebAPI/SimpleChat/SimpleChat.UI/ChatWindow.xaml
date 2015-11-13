@@ -1,0 +1,42 @@
+﻿<Window x:Class="SimpleChat.UI.ChatWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleChat.UI"
+        mc:Ignorable="d"
+        Icon="Images/chat-window-icon.png"
+        WindowStartupLocation="CenterScreen"
+        Background="LightGray"
+        Title="Chat with" Height="300" Width="500">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ListView Name="stackMessages"
+                  Margin="5">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding DateTime}" Margin="2"></TextBlock>
+                        <TextBlock Text="{Binding SenderUsername}" Margin="2" FontWeight="Bold"></TextBlock>
+                        <TextBlock Text="{Binding Content}" Margin="2"
+                                   FontStyle="Italic"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <DockPanel Grid.Row="1" Margin="0">
+            <Button Margin="5" Content="Send"
+                    Width="40" IsEnabled="False" IsDefault="True"
+                    DockPanel.Dock="Right"
+                    Name="buttonSend" Click="buttonSend_Click"></Button>
+            <TextBox Margin="5,5,0,5"
+                     Name="textMessage" TextChanged="textMessage_TextChanged"></TextBox>
+        </DockPanel>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectoryTree>
+	<dir name="C:\mongodb">
+		<files>
+			<file name="C:\mongodb\GNU-AGPL-3.0" />
+			<file name="C:\mongodb\README" />
+			<file name="C:\mongodb\THIRD-PARTY-NOTICES" />
+		</files>
+	</dir>
+	<dir name="C:\mongodb\bin">
+		<files>
+			<file name="C:\mongodb\bin\bsondump.exe" />
+			<file name="C:\mongodb\bin\mongo.exe" />
+			<file name="C:\mongodb\bin\mongod.exe" />
+			<file name="C:\mongodb\bin\mongod.pdb" />
+			<file name="C:\mongodb\bin\mongodump.exe" />
+			<file name="C:\mongodb\bin\mongoexport.exe" />
+			<file name="C:\mongodb\bin\mongofiles.exe" />
+			<file name="C:\mongodb\bin\mongoimport.exe" />
+			<file name="C:\mongodb\bin\mongooplog.exe" />
+			<file name="C:\mongodb\bin\mongoperf.exe" />
+			<file name="C:\mongodb\bin\mongorestore.exe" />
+			<file name="C:\mongodb\bin\mongos.exe" />
+			<file name="C:\mongodb\bin\mongos.pdb" />
+			<file name="C:\mongodb\bin\mongostat.exe" />
+			<file name="C:\mongodb\bin\mongotop.exe" />
+		</files>
+	</dir>
+	<dir name="C:\mongodb\data">
+		<files>
+			<file name="C:\mongodb\data\local.0" />
+			<file name="C:\mongodb\data\local.ns" />
+			<file name="C:\mongodb\data\MitkoDB.0" />
+			<file name="C:\mongodb\data\MitkoDB.ns" />
+			<file name="C:\mongodb\data\mongod.lock" />
+		</files>
+	</dir>
+</DirectoryTree>

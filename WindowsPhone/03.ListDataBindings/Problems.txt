@@ -1,0 +1,1 @@
+1.Write a program to manage a simple system with information about towns and countries. Each country is described by name, language, national flag and list of towns. Each town is described by name, population and country. You should create navigation over the towns and countries. Enable editing the information about them. 

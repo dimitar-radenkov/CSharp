@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<artists>
+	<artist>
+		<name>Black Dreams</name>
+		<albums>
+			<name>Hello Africa</name>
+		</albums>
+	</artist>
+	<artist>
+		<name>Gloriq Estefan</name>
+		<albums>
+			<name>The best of</name>
+			<name>I Need a hero</name>
+		</albums>
+	</artist>
+</artists>

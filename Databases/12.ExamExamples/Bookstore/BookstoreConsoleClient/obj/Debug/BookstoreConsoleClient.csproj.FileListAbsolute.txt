@@ -1,0 +1,14 @@
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\BookstoreConsoleClient.exe.config
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\BookstoreConsoleClient.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\BookstoreConsoleClient.pdb
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\BookstoreData.dll
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\BookstoreModels.dll
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\BookstoreData.pdb
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\BookstoreModels.pdb
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\obj\Debug\BookstoreConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\obj\Debug\BookstoreConsoleClient.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\Bookstore\BookstoreConsoleClient\obj\Debug\BookstoreConsoleClient.pdb

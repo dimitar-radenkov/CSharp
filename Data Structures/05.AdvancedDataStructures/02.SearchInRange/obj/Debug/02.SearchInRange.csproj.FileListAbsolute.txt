@@ -1,0 +1,8 @@
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\bin\Debug\02.SearchInRange.exe.config
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\obj\Debug\02.SearchInRange.csprojResolveAssemblyReference.cache
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\bin\Debug\02.SearchInRange.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\bin\Debug\02.SearchInRange.pdb
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\bin\Debug\PowerCollections.dll
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\bin\Debug\PowerCollections.xml
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\obj\Debug\02.SearchInRange.exe
+c:\users\radenkov\documents\visual studio 2013\Projects\AdvancedDataStructures\02.SearchInRange\obj\Debug\02.SearchInRange.pdb

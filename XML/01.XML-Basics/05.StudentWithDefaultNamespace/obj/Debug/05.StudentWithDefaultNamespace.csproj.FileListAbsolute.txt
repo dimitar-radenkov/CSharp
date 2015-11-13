@@ -1,0 +1,1 @@
+C:\Users\Radenkov\Documents\Visual Studio 2013\Projects\XML-Basics\05.StudentWithDefaultNamespace\bin\Debug\05.StudentWithDefaultNamespace.exe.config
