@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedMVVM", "AdvancedMVVM\AdvancedMVVM.csproj", "{91CBC435-8F5C-4015-8E82-2392192F4C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVVM", "SimpleMVVM\SimpleMVVM.csproj", "{6ADC7E14-2B4C-4F41-A719-664B381445F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validations", "Validations\Validations.csproj", "{85254804-D08E-4BB9-BBC3-BEC7D9A85F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CBC435-8F5C-4015-8E82-2392192F4C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CBC435-8F5C-4015-8E82-2392192F4C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CBC435-8F5C-4015-8E82-2392192F4C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CBC435-8F5C-4015-8E82-2392192F4C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADC7E14-2B4C-4F41-A719-664B381445F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADC7E14-2B4C-4F41-A719-664B381445F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADC7E14-2B4C-4F41-A719-664B381445F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADC7E14-2B4C-4F41-A719-664B381445F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85254804-D08E-4BB9-BBC3-BEC7D9A85F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85254804-D08E-4BB9-BBC3-BEC7D9A85F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85254804-D08E-4BB9-BBC3-BEC7D9A85F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85254804-D08E-4BB9-BBC3-BEC7D9A85F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

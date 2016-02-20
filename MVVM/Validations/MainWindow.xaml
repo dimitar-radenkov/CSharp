@@ -1,0 +1,43 @@
+﻿<Window x:Class="Validations.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Validations"
+        xmlns:rules="clr-namespace:Validations.ValidationRules"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Name="spMain">
+            <StackPanel Orientation="Horizontal" Margin="2">
+                <TextBlock Width="50">Name</TextBlock>
+                <TextBox Width="120">
+                    <TextBox.Text>
+                        <Binding Path="Name" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <rules:NameValidationRule MinLength="5"
+                                                      MaxLenght="15"
+                                                      IsUpperCase="True">
+                                </rules:NameValidationRule>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="2">
+                <TextBlock Width="50">Age</TextBlock>
+                <TextBox Width="120">
+                    <TextBox.Text>
+                        <Binding Path="Age" UpdateSourceTrigger="PropertyChanged">
+                            <Binding.ValidationRules>
+                                <rules:AgeValidationRule Min="10" Max="100"></rules:AgeValidationRule>
+                            </Binding.ValidationRules>
+                        </Binding>
+                    </TextBox.Text>
+                </TextBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
